@@ -1,1 +1,1 @@
-# Course documents
+# Документы с курсов
